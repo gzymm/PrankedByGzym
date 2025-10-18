@@ -1,0 +1,1 @@
+x=msgbox("Tu viens de te faire chancled par le virus issou risitas A partir de maintenant tu n'as plus de pc. Bonne chance pour essayer de le reparer al hmar tres content :) #CPF",0+16+4096,"just got chancled by gzym al hmar surgele")

