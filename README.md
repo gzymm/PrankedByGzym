@@ -1,4 +1,4 @@
-PrankedByGzym Repo contains all my randoms "fake viruses" that i've made since i was 12. They were inspired from the Twitch Booster real virus from the 18-25 forum that attacked streamers in the past making them run the real malware
+PrankedByGzym Repo contains all my randoms "fake viruses" that i've made when i was 12 to prank my friends or just for fun. They were inspired from the Twitch Booster real virus from the 18-25 forum that attacked streamers in the past making them run the real malware
 which had the effect of completely corrupt the MBR partition and make Windows unbootable.
  
 It was originally named "GETOILE" and then i've started to make some derivatives;
